@@ -1,10 +1,10 @@
 //-----------------------------------------------------------------------------
-//			Author : Medusa
-//         Mail : BALDOOR@qq.com
-//         Web : http://openlibsys.org/
-//			License : The modified BSD license
+//     Author : hiyohiyo
+//       Mail : hiyohiyo@crystalmark.info
+//        Web : http://openlibsys.org/
+//    License : The modified BSD license
 //
-//         Copyright 2015 OpenLibSys.org. All rights reserved.
+//                          Copyright 2007 OpenLibSys.org. All rights reserved.
 //-----------------------------------------------------------------------------
 
 #pragma once
